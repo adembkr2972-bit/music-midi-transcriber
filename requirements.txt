@@ -1,0 +1,16 @@
+streamlit>=1.59.0
+setuptools<81
+demucs==4.0.1
+pretty-midi>=0.2.10
+tinysoundfont>=0.3.7,<0.4
+lameenc>=1.8,<2
+librosa>=0.8.0
+mir-eval>=0.6
+numpy>=1.26,<2
+pyarrow<26
+resampy>=0.2.2,<0.4.3
+scikit-learn
+scipy>=1.4.1
+typing-extensions
+onnxruntime
+torchcodec>=0.16,<0.17

@@ -1,0 +1,21 @@
+# Local environment, credentials, and logs
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.log
+
+# Generated media and cached weights
+outputs/
+*.mid
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.sf2
+*.pth
+*.pt
+*.onnx
